@@ -8,3 +8,4 @@ mkblib.py; my common library functions
 bmp280.py; query the BMP280 pressure/temp sensor
 rtc3231.py; query/update the RTC3231 realTimeClock chip
 intlog.py; log the BMP280 pressure data to 32K EEPROM
+tpplot.py; graph the BMP280 pressure data
